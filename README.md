@@ -17,7 +17,7 @@ Open and run:
 
 `health_inspection.ipynb`
 
-Fpr best results add your Census API Key where it says CENSUS_API_KEY = "" otherwise your probably going to get alot of failed requests 
+For best results add your Census API Key where it says CENSUS_API_KEY = "" otherwise your probably going to get alot of failed requests 
 
 ## Optional: Skip Long Processing Steps
 
